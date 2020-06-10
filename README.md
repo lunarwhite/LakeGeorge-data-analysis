@@ -15,4 +15,4 @@
   
 ### Attendion  
 
-- pay attention to the section Requirements,Expectations, and Marking Criteria in the original `assignment specification document` as well as the `Major_Assignment_Marking_Guide]`. 
+- pay attention to the section Requirements,Expectations, and Marking Criteria in the original `assignment specification document` as well as the `Major_Assignment_Marking_Guide`. 
