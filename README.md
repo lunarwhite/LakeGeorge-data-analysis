@@ -1,5 +1,5 @@
 # data_analysis_in_LakeGeorge
-ANU COMP1730/6730 S1 2020 - Project Assignment 
+[ANU COMP1730/6730 S1 2020 - Project Assignment](https://cs.anu.edu.au/courses/comp1730/assessment/project/) 
 
 
 ### Submission  
@@ -15,4 +15,4 @@ ANU COMP1730/6730 S1 2020 - Project Assignment
   
 ### Attendion  
 
-- pay attention to the section Requirements,Expectations, and Marking Criteria in the original [assignment specification document]() as well as the [Major_Assignment_Marking_Guide](). 
+- pay attention to the section Requirements,Expectations, and Marking Criteria in the original `assignment specification document` as well as the `Major_Assignment_Marking_Guide]`. 
