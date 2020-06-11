@@ -20,24 +20,24 @@
 
 ### Marking  
 
-- Problem Generalisation (5%)  
+- <font color=#FF0000>Problem Generalisation (5%)</font>  
   - All aspects of the solution would work on any data set in the same format containing any reasonable data values.  
 - Data Structure (10%)  
   - Chosen data structure well suited to subsequent usage, leading to efficient code in terms of both programmer and computer time.
-- Code Quality (15%)
+- <font color=#FF0000>Code Quality (15%)</font>
   - Excellent documentation
   - naming and style 
   - following Python conventions 
   - making the code easy to read
-- Organisation (10%)
+- <font color=#FF0000>Organisation (10%)</font>
   - Code very well organised, using sub-functions as appropriate.
   - All functions are modular.
   - The overall program structure makes the code easy to follow.
-- Report (10%)
+- <font color=#FF0000>Report (10%)</font>
   - Report is well organised, well presented, clear and concise.
   - Excellent choice of examples and good discussion.
   
-- Testing and correctness  
+- <font color=#FF0000>Testing and correctness</font>  
   - common request:
     - Results are correct for all use cases, including edge- cases. 
     - Clear evidence of testing to verify correctness.
