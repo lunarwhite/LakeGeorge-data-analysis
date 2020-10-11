@@ -1,4 +1,4 @@
-# Data_Analysis_In_LakeGeorge
+# LakeGeorgeDataAnalysis
 [ANU COMP1730/6730 S1 2020 - Project Assignment](https://cs.anu.edu.au/courses/comp1730/assessment/project/) 
 
 
