@@ -1,6 +1,6 @@
-# LakeGeorge-data-analysis
-[ANU COMP1730/6730 S1 2020 - Project Assignment](https://cs.anu.edu.au/courses/comp1730/assessment/project/) 
+# lake-george-viz
 
+[ANU COMP1730/6730 S1 2020 - Project Assignment](https://cs.anu.edu.au/courses/comp1730/assessment/project/) 
 
 ## Submission  
 
@@ -12,11 +12,9 @@
     - A simple assignment cover sheet is highly recommended.
   - (optionally) `assignment_tests.py` , which is a Python script containing any tests you have written to verify the correctness of your functions.(any testing functions you used to test your code).
   
-  
 ## Attendion  
 
 - pay attention to the section Requirements,Expectations, and Marking Criteria in the original `assignment specification document` as well as the `Marking`. 
-
 
 ## Marking  
 
@@ -36,7 +34,6 @@
 - **Report (10%)**
   - Report is well organised, well presented, clear and concise.
   - Excellent choice of examples and good discussion.
-  
 - **Testing and correctness**  
   - common request:
     - Results are correct for all use cases, including edge- cases. 
@@ -51,5 +48,3 @@
       - Chart formatting all done within Python.
     - Q4(10%) and Q5(10%)  “correct” varies based on chosen approach
       - Novel, elegant or otherwise exceptional approach taken.
-      
-   
